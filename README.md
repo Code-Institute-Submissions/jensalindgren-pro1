@@ -11,7 +11,6 @@ The website targets an audience of new customers looking for a free workout plan
 
 ## Table of Contents
 
-<br>
 
 - [HTML \& CSS Project](#html--css-project)
 - [General Info](#general-info)
@@ -25,8 +24,6 @@ The website targets an audience of new customers looking for a free workout plan
   - [Home Page](#home-page)
   - [Credits](#credits)
 
-<br>
-
 ## Project Goals
 
 - Create a website that showcase my skills in Html and CSS.
@@ -37,19 +34,17 @@ The website targets an audience of new customers looking for a free workout plan
 
 - Create a website that is easy to understand and read.
 
-<br>
-
 ## Typography
 
 The font used in this project is Open Sans. It is a sans-serif font that is easy to read and understand.
 
-<br>
+
 
 ## Colors
 
 The colors used in this project are: white, whitesmoke, black, #555, #333. The colors are used to create a clean and modern look.
 
-<br>
+
 
 ## Wireframes
 
@@ -67,8 +62,6 @@ The wireframes for this project was created with Balsamiq. The wireframes can be
 
 - Site is easy to read and understand. The same color and thems is used throughout the site.
 
-<br>
-
 1. Header
 
 - Header is the same on all pages. All the links are working and will take you to the correct page.
@@ -85,9 +78,7 @@ The wireframes for this project was created with Balsamiq. The wireframes can be
 
 - The header have few lines of Javascript to change to the hamburger menu.
 
-<br>
-
-2. Footer
+1. Footer
 
 - Footer and header is the same on all pages. All the links are working and will take you to the correct page.
 
@@ -98,8 +89,6 @@ The wireframes for this project was created with Balsamiq. The wireframes can be
 - And also a link to the contact page and email.
 
 - Hoover over the links in the footer will change the color to a darker color and move the text to the left.
-
-<br>
 
 ## Home Page
 
