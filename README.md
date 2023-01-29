@@ -1,1 +1,123 @@
-# pro1
+# HTML & CSS Project
+
+![Alt text](/assets/img/banner2.png)
+
+# General Info
+
+This is a webbsite that showcases workout plans for people who want to get in shape. It is a project for a course in Html and CSS.
+
+The purpose of this website is to promote myself and my skills in Html and CSS.
+The website targets an audience of new customers looking for a free wotkout plan. That plans are tailored to their needs and background in traning.
+
+## Table of Contents
+
+<br>
+
+1. [User Experience (UX)](#user-experience-ux)
+   1. [Project Goals](#project-goals)
+   2. [Typography](#typography)
+   3. [Colors](#colors)
+   4. [Wireframes](#wireframes)
+2. [Features](#features)
+   1. [General](#general)
+   2. [Home Page](#home-page)
+   3. [Join Now](#treatments-page)
+   4. [Plans](#book-now-page)
+   5. [About](#about-page)
+   6. [Contact Page](#contact-page)
+3. [Finished Product](#finished-product)
+4. [Deployment](#deployment)
+   1. [GitHub Pages](#github-pages)
+5. [Credits](#credits)
+
+<br>
+
+## Project Goals
+
+- Create a website that showcase my skills in Html and CSS.
+
+- Create a website that is responsive on all devices.
+
+- Create a website that is easy to navigate with style.
+
+- Create a website that is easy to understand and read.
+
+  <br>
+
+## Typography
+
+The font used in this project is Open Sans. It is a sans-serif font that is easy to read and understand.
+
+<br>
+
+## Colors
+
+The colors used in this project are: white, whitesmoke, black, #555, #333. The colors are used to create a clean and modern look.
+
+<br>
+
+## Wireframes
+
+The wireframes for this project was created with Balsamiq. The wireframes can be found in the folder "wireframes".
+
+![Alt text](/assets/wireframes/1.png)
+
+## Features
+
+### General
+
+- The website is responsive on all devices.
+
+- The website is easy to navigate and have the same navigation system throughout.
+
+- Site is easy to read and understand. The same color and thems is used throughout the site.
+
+<br>
+
+1. Header
+
+- Header is the same on all pages. All the links are working and will take you to the correct page.
+
+- The header is a sticky header. It will stay on top of the page when you scroll down.
+
+- The header is responsive on all devices.
+
+- The header will change to a hamburger menu on smaller devices.
+
+- When you click on the hamburger menu it will open up a menu with all the links.
+
+- Hoover over the links in the menu will change the color to a darker color and move the text to the left.
+
+- The header have few lines of Javascript to change to the hamburger menu.
+
+<br>
+
+2. Footer
+
+- Footer and header is the same on all pages. All the links are working and will take you to the correct page.
+
+- The footer is responsive on all devices.
+
+- The footer have social media links.
+
+- And also a link to the contact page and email.
+
+- Hoover over the links in the footer will change the color to a darker color and move the text to the left.
+
+<br>
+
+## Home Page
+
+- Home page is the first page you will see when you enter the website. It is a big picture that will show the logo and a simple messege. That you can get a free workout plan. When you hoover the picture the logo will move and the text to the left.
+
+- The home page hase a section underneath the main picture/logo with 4 pictures. That will show the different links and what the site offers.
+
+- When you hoover over the pictures they will change color and the text move to the left.
+
+## Credits
+
+All the content are written by me.
+
+Feel free to use the content for your own projects.
+
+[Back to top ⇧](#html--css-project)
