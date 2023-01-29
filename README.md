@@ -7,7 +7,7 @@
 This is a webbsite that showcases workout plans for people who want to get in shape. It is a project for a course in Html and CSS.
 
 The purpose of this website is to promote myself and my skills in Html and CSS.
-The website targets an audience of new customers looking for a free wotkout plan. That plans are tailored to their needs and background in traning.
+The website targets an audience of new customers looking for a free workout plan. That plans are tailored to their needs and background in traning.
 
 ## Table of Contents
 
