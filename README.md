@@ -2,7 +2,7 @@
 
 ![Alt text](/assets/img/banner2.png)
 
-# General Info
+## General Info
 
 This is a webbsite that showcases workout plans for people who want to get in shape. It is a project for a course in Html and CSS.
 
@@ -13,16 +13,21 @@ The website targets an audience of new customers looking for a free workout plan
 
 
 - [HTML \& CSS Project](#html--css-project)
-- [General Info](#general-info)
+  - [General Info](#general-info)
   - [Table of Contents](#table-of-contents)
   - [Project Goals](#project-goals)
   - [Typography](#typography)
   - [Colors](#colors)
   - [Wireframes](#wireframes)
   - [Features](#features)
-    - [General](#general)
-  - [Home Page](#home-page)
+  - [General](#general)
+    - [Home Page](#home-page)
+    - [Join Page](#join-page)
+    - [Plans Page](#plans-page)
+    - [About Page](#about-page)
+    - [Contact Page](#contact-page)
   - [Credits](#credits)
+  
 
 ## Project Goals
 
@@ -37,9 +42,6 @@ The website targets an audience of new customers looking for a free workout plan
 ## Typography
 
 The font used in this project is Open Sans. It is a sans-serif font that is easy to read and understand.
-
-
-
 ## Colors
 
 The colors used in this project are: white, whitesmoke, black, #555, #333. The colors are used to create a clean and modern look.
@@ -54,7 +56,7 @@ The wireframes for this project was created with Balsamiq. The wireframes can be
 
 ## Features
 
-### General
+## General
 
 - The website is responsive on all devices.
 
@@ -90,13 +92,31 @@ The wireframes for this project was created with Balsamiq. The wireframes can be
 
 - Hoover over the links in the footer will change the color to a darker color and move the text to the left.
 
-## Home Page
+### Home Page
 
 - Home page is the first page you will see when you enter the website. It is a big picture that will show the logo and a simple messege. That you can get a free workout plan. When you hoover the picture the logo will move and the text to the left.
 
 - The home page hase a section underneath the main picture/logo with 4 pictures. That will show the different links and what the site offers.
 
 - When you hoover over the pictures they will change color and the text move to the left.
+
+### Join Page
+
+- The join page is a simple form that you can fill out to get a free workout plan. The form is responsive on all devices.
+
+### Plans Page
+
+- The plans page is a page that will show the different plans that you can get. The plans are responsive on all devices.
+
+
+### About Page
+
+
+
+### Contact Page
+
+- The contact page is a simple form that you can fill out to contact the website owner. The form is responsive on all devices.
+- When you hover over the submit button it will change color.
 
 ## Credits
 
