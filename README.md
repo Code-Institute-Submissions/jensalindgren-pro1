@@ -13,22 +13,17 @@ The website targets an audience of new customers looking for a free wotkout plan
 
 <br>
 
-1. [User Experience (UX)](#user-experience-ux)
-   1. [Project Goals](#project-goals)
-   2. [Typography](#typography)
-   3. [Colors](#colors)
-   4. [Wireframes](#wireframes)
-2. [Features](#features)
-   1. [General](#general)
-   2. [Home Page](#home-page)
-   3. [Join Now](#treatments-page)
-   4. [Plans](#book-now-page)
-   5. [About](#about-page)
-   6. [Contact Page](#contact-page)
-3. [Finished Product](#finished-product)
-4. [Deployment](#deployment)
-   1. [GitHub Pages](#github-pages)
-5. [Credits](#credits)
+- [HTML \& CSS Project](#html--css-project)
+- [General Info](#general-info)
+  - [Table of Contents](#table-of-contents)
+  - [Project Goals](#project-goals)
+  - [Typography](#typography)
+  - [Colors](#colors)
+  - [Wireframes](#wireframes)
+  - [Features](#features)
+    - [General](#general)
+  - [Home Page](#home-page)
+  - [Credits](#credits)
 
 <br>
 
@@ -42,7 +37,7 @@ The website targets an audience of new customers looking for a free wotkout plan
 
 - Create a website that is easy to understand and read.
 
-  <br>
+<br>
 
 ## Typography
 

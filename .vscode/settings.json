@@ -1,5 +1,6 @@
 {
     "markdown.styles": [
-        "assets\\css\\stylemd.css"
+        "assets\\css\\stylemd.css",
+        "/workspace/pro1/assets/css/stylemd.css"
     ]
 }
