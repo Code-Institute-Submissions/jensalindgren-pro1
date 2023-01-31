@@ -213,6 +213,22 @@ I started my project with my index.html file and just kept on building my projec
 
 ## Final Result
 
+## Deployment
+
+- This website was developed using GitPod, which was then committed and pushed to GitHub using the GitPod terminal.
+
+## GitHub Pages
+
+- Here are the steps to deploy this website to GitHub Pages from its GitHub repository:
+
+- Log in to GitHub and locate the GitHub Repository.
+
+- At the top of the Repository, locate the Settings button on the menu.
+
+- Under Source, click the dropdown called None and select Main Branch.
+
+- The page will refresh automatically and generate a link to your website.
+
 ## Credits
 
 All the content are written by me.
