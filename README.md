@@ -103,9 +103,11 @@ The wireframes for this project was created with Balsamiq. The wireframes can be
 - The header have few lines of Javascript to change to the hamburger menu.
 
 Header on desktop:
+
 ![Alt text](/assets/wireframes/header1.png)
 
 Header on mobile:
+
 ![Alt text](/assets/wireframes/header2.png)
 
 2. Footer
