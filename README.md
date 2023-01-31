@@ -108,7 +108,7 @@ Header on desktop:
 Header on mobile:
 ![Alt text](/assets/wireframes/header2.png)
 
-2.Footer
+2. Footer
 
 - Footer and header is the same on all pages. All the links are working and will take you to the correct page.
 
