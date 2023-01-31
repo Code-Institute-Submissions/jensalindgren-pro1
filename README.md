@@ -28,6 +28,7 @@ The website targets an audience of new customers looking for a free workout plan
     - [Code validation](#code-validation)
     - [Testing on different devices](#testing-on-different-devices)
   - [Manual Testing](#manual-testing)
+  - [Final Result](#final-result)
   - [Credits](#credits)
   
 ## Project Goals
@@ -144,6 +145,8 @@ The wireframes for this project was created with Balsamiq. The wireframes can be
 - All the hover effects are working and will change color and move the text to the left.
 
 [Back to top ⇧](#html--css-project)
+
+## Final Result
 
 ## Credits
 
