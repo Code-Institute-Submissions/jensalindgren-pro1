@@ -217,6 +217,8 @@ I started my project with my index.html file and just kept on building my projec
 
 - This website was developed using GitPod, which was then committed and pushed to GitHub using the GitPod terminal.
 
+Here is the link to the website: https://jensalindgren.github.io/pro1/
+
 ## GitHub Pages
 
 - Here are the steps to deploy this website to GitHub Pages from its GitHub repository:
