@@ -4,10 +4,10 @@
 
 ## General Info
 
-This is a webbsite that showcases workout plans for people who want to get in shape. It is a project for a course in Html and CSS.
+This is a website that showcases workout plans for people who want to get in shape. It is a project for a course in Html and CSS.
 
 The purpose of this website is to promote myself and my skills in Html and CSS.
-The website targets an audience of new customers looking for a free workout plan. That plans are tailored to their needs and background in traning.
+The website targets an audience of new customers looking for a free workout plan. That plans are tailored to their needs and background in training.
 
 ## Table of Contents
 
@@ -62,7 +62,7 @@ The wireframes for this project was created with Balsamiq. The wireframes can be
 
 - The website is easy to navigate and have the same navigation system throughout.
 
-- Site is easy to read and understand. The same color and thems is used throughout the site.
+- Site is easy to read and understand. The same color and themes is used throughout the site.
 
 1. Header
 
@@ -94,9 +94,9 @@ The wireframes for this project was created with Balsamiq. The wireframes can be
 
 ### Home Page
 
-- Home page is the first page you will see when you enter the website. It is a big picture that will show the logo and a simple messege. That you can get a free workout plan. When you hoover the picture the logo will move and the text to the left.
+- Home page is the first page you will see when you enter the website. It is a big picture that will show the logo and a simple message. That you can get a free workout plan. When you hoover the picture the logo will move and the text to the left.
 
-- The home page hase a section underneath the main picture/logo with 4 pictures. That will show the different links and what the site offers.
+- The home page has a section underneath the main picture/logo with 4 pictures. That will show the different links and what the site offers.
 
 - When you hoover over the pictures they will change color and the text move to the left.
 
