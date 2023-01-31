@@ -176,7 +176,8 @@ Footer on mobile:
 
 - The website is tested on different devices. The website is responsive on all devices.
 
-- Pages is tested on different browsers. The website is working on all browsers.
+- Pages is tested on different browsers. The website is working on all browsers. Like Chrome, Firefox, Safari and Edge.
+
 
 ## Manual Testing
 
