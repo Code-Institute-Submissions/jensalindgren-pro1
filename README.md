@@ -172,12 +172,35 @@ Footer on mobile:
 - W3C validator for CSS: https://jigsaw.w3.org/css-validator/
 - W3C validator for CSS was showing error in syntax on the banner CSS. I corrected the error and the code is now validated on all the pages.
 
-### Testing on different devices
+### Testing On Different Browsers
 
 - The website is tested on different devices. The website is responsive on all devices.
 
 - Pages is tested on different browsers. The website is working on all browsers. Like Chrome, Firefox, Safari and Edge.
 
+### Device Testing Tablet and Mobile
+
+- Iphone SE
+- Iphone X
+- Iphone XL
+- Iphone 12
+- Pixel 5
+- Samsung Galaxy S8
+- Samsung Galaxy S20
+- Samsung Galaxy S21
+- Samsung Galaxy S20 Ultra
+- Samsung Galaxy S21 Ultra
+- Samsung Galaxy A51/A71
+- Ipad
+- Ipad Pro
+- Ipad Air
+- Ipad Mini
+- Surface Pro 7
+- Surface Duo
+- Nest Hub
+- Nest Hub Max
+
+- The website is responsive on all devices. The website is working on all devices.
 
 ## Manual Testing
 
