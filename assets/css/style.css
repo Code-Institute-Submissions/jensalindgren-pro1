@@ -14,7 +14,6 @@ body {
 }
 
 /* Navbar */
-
 .navbar {
     display: flex;
     position: fixed;
@@ -26,26 +25,21 @@ body {
     margin-top: -110px;
     z-index: 10;
 }
-
 .brand-title {
     font-size: 1.5rem;
     margin: .5rem;
 }
-
 .navbar-links {
     height: 100%;
 }
-
 .navbar-links ul {
     display: flex;
     margin: 0;
     padding: 0;
 }
-
 .navbar-links li {
     list-style: none;
 }
-
 .navbar-links li a {
     display: block;
     text-decoration: none;
@@ -153,7 +147,6 @@ body {
     text-align: center;
     padding: 50px;
     margin: auto;
-    max-width: 1560;
     width: 100%;
 }
 
@@ -187,7 +180,6 @@ h4 {
     margin-top: 10px;
 }
 
-
 /* Banner 1-2 Content */
 
 .banner {
@@ -198,7 +190,6 @@ h4 {
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/pexels-photo-2261485.jpeg);
     background-size: cover;
     background-position: center;
-    position: flex;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -220,7 +211,6 @@ h4 {
     align-items: center;
     justify-content: center;
     text-align: center;
-    position: flex;
     display: grid;
     grid-template-columns: repeat(1, 1fr);
     margin-bottom: 30px;
@@ -240,7 +230,6 @@ h4 {
     align-items: center;
     justify-content: center;
     text-align: center;
-    position: flex;
     display: flex;
     margin-bottom: 30px;
     margin-top: 110px;
@@ -259,7 +248,6 @@ h4 {
     align-items: center;
     justify-content: center;
     text-align: center;
-    position: flex;
     display: grid;
     grid-template-columns: repeat(1, 1fr);
     margin-bottom: 30px;
@@ -279,7 +267,6 @@ h4 {
     align-items: center;
     justify-content: center;
     text-align: center;
-    position: flex;
     display: grid;
     grid-template-columns: repeat(1, 1fr);
     margin-bottom: 30px;
@@ -353,7 +340,7 @@ p {
     text-decoration: none;
     text-transform: initial;
     font-weight: 400;
-    color: #fff;
+    color: #ffffff;
     font-size: large;
 }
 
@@ -371,9 +358,9 @@ p {
     overflow: hidden;
     position: relative;
     box-shadow: 0px 0px 19px 5px rgba(0,0,0,0.19);
-  }
+}
   
-  .container * {
+.container * {
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
     -webkit-transition: all 0.35s ease;
@@ -389,7 +376,7 @@ p {
     text-transform: uppercase;
 }
   
-  .container h3 {
+.container h3 {
     background-color: #000000;
     border: 2px solid #fff;
     color: #fff;
@@ -399,10 +386,10 @@ p {
     margin: 0;
     padding: 5px 10px;
     text-transform: uppercase;
-  }
+}
   
-  .container:before,
-  .container:after {
+.container:before,
+.container:after {
     position: absolute;
     top: 0;
     bottom: 0;
@@ -416,57 +403,58 @@ p {
     content: '';
     opacity: 0.9;
     z-index: 1;
-  }
-  
-  .container:before {
+}
+
+    
+.container:before {
     -webkit-transform: skew(45deg) translateX(-155%);
     transform: skew(45deg) translateX(-155%);
-  }
+}
   
-  .container:after {
+.container:after {
     -webkit-transform: skew(45deg) translateX(155%);
     transform: skew(45deg) translateX(155%);
-  }
+}
   
-  .container img {
+.container img {
     backface-visibility: hidden;
     max-width: 100%;
     vertical-align: top;
-  }
+}
   
-  .container figcaption {
+.container figcaption {
     top: 50%;
     left: 40%;
     position: absolute;
     z-index: 2;
-  }
+}
+
+.container a {
+    color: #fff;
+    font-size: 1.5em;
+    font-weight: 600;
+    letter-spacing: 1px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
   
-  .container a {
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    z-index: 3;
-  }
-  
-  .container:hover > img,
-  .container.hover > img {
+.container:hover > img,
+.container.hover > img {
     opacity: 0.5;
-  }
+}
   
-  .container:hover:after,
-  .container.hover:after {
+.container:hover:after,
+.container.hover:after {
     -webkit-transform: skew(45deg) translateX(55%);
     transform: skew(45deg) translateX(55%);
-  }
+}
   
-  .container:hover figcaption,
-  .container.hover figcaption {
+.container:hover figcaption,
+.container.hover figcaption {
     -webkit-transform: translate(-50%, -50%) scale(1);
     transform: translate(-50%, -50%) scale(1);
     opacity: 1;
-  }
+}
   
 
 
@@ -543,7 +531,6 @@ h2:after {
     height: 4px;
     width: 50px;
     border-radius: 2px;
-    background-color: #333;
 }
 
 .field {
@@ -608,13 +595,11 @@ textarea {
     min-width: 360px;
 }
 
-
 .footer-social {
     display: flex;
     align-items: center;
     justify-content: center;
 }
-
 
 .terms {
     text-align: center;
@@ -623,7 +608,6 @@ textarea {
     justify-content: center;
     align-items: center;
 }
-
 .terms a {
     text-decoration: none;
     text-transform: initial;
@@ -631,7 +615,6 @@ textarea {
     color: #000;
     font-size: large;
 }
-
 .terms a:hover {
     color: #555;
 }
