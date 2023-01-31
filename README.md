@@ -11,6 +11,8 @@ The website targets an audience of new customers looking for a free workout plan
 
 Here is the link to the website: https://jensalindgren.github.io/pro1/
 
+![Alt text](/assets/wireframes/website.png)
+
 ## Table of Contents
 
 - [HTML \& CSS Project](#html--css-project)
@@ -78,7 +80,6 @@ The wireframes for this project was created with Balsamiq. The wireframes can be
 
 ## General Features
 
-
 - The website is responsive on all devices.
 
 - The website is easy to navigate and have the same navigation system throughout.
@@ -107,7 +108,7 @@ Header on desktop:
 Header on mobile:
 ![Alt text](/assets/wireframes/header2.png)
 
-2. Footer
+2.Footer
 
 - Footer and header is the same on all pages. All the links are working and will take you to the correct page.
 
@@ -120,11 +121,12 @@ Header on mobile:
 - Hoover over the links in the footer will change the color to a darker color and move the text to the left.
 
 Footer on desktop:
+
 ![Alt text](/assets/wireframes/footer1.png)
 
 Footer on mobile:
-![Alt text](/assets/wireframes/footer2.png)
 
+![Alt text](/assets/wireframes/footer2.png)
 
 [Back to top ⇧](#html--css-project)
 
@@ -209,7 +211,6 @@ header and footer is the same on all pages. All the links are working and will t
 - The commit history can be found on Github.
 - I started the project on my local machine and then pushed it to Github. So the commit history is not showing on Github. step by step in th browser.
 I started my project with my index.html file and just kept on building my project step by step. Halfway through the project I started to use my Github repository. I pushed my project to Github and then started to work on my project in the browser. So thats giving a little bit of a messy commit history.
-
 
 [Back to top ⇧](#html--css-project)
 
