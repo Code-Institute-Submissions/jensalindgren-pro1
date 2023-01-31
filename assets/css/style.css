@@ -461,7 +461,6 @@ p {
 /* Contact form */
 
 .container2 {
-	position: flex;
 	width: 100%;
     height: 100%;
 	display: flex;
