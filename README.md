@@ -15,6 +15,7 @@ The website targets an audience of new customers looking for a free workout plan
   - [General Info](#general-info)
   - [Table of Contents](#table-of-contents)
   - [Project Goals](#project-goals)
+  - [User Stories](#user-stories)
   - [Typography](#typography)
   - [Colors](#colors)
   - [Wireframes](#wireframes)
@@ -28,6 +29,11 @@ The website targets an audience of new customers looking for a free workout plan
     - [Code validation](#code-validation)
     - [Testing on different devices](#testing-on-different-devices)
   - [Manual Testing](#manual-testing)
+    - [Home Page](#home-page-1)
+    - [Join Page](#join-page-1)
+    - [Plans Page](#plans-page-1)
+    - [About Page](#about-page-1)
+    - [Contact Page](#contact-page-1)
   - [Final Result](#final-result)
   - [Credits](#credits)
   
@@ -40,6 +46,20 @@ The website targets an audience of new customers looking for a free workout plan
 - Create a website that is easy to navigate with style.
 
 - Create a website that is easy to understand and read.
+
+## User Stories
+
+- As a user I want to be able to navigate the website easily.
+
+- As a user I want to be able to read the website easily.
+
+- As a user I want to be able to contact the website owner easily.
+
+- As a user I want to be able to get a free workout plan easily.
+
+- As a user I want to be able to get a workout plan that is tailored to my needs.
+
+- As a user I want to know who is behind the website.
 
 ## Typography
 
@@ -141,10 +161,33 @@ The wireframes for this project was created with Balsamiq. The wireframes can be
 
 ## Manual Testing
 
+### Home Page
+
 - All the links are working and will take you to the correct page. I have tested all the links on all the pages.
-- All the hover effects are working and will change color and move the text to the left.
-- All the forms are working and will send you to a new page. I have tested all the forms on all the pages.
+- All the hover effects are working and will change color and move the text to the left. I have tested all the hover effects on all the pages.
 - All the pictures are working and will show the correct picture. I have tested all the pictures on all the pages.
+
+### Join Page
+
+- All the links are working and will take you to the correct page. I have tested all the links on all the pages.
+- All the hover effects are working and will change color and move the text to the left. I have tested all the hover effects on all the pages.
+- All the form fields are working and will show the correct message. I have tested all the form fields on all the pages.
+- The submit button is working and will show the correct message. I have tested all the submit buttons on all the pages.
+
+### Plans Page 
+
+- Same as the join page. Tested all the links, hover effects and form fields.
+header and footer is the same on all pages. All the links are working and will take you to the correct page.
+
+### About Page
+
+- Same as the pages above. Tested all the links, hover effects and form fields.
+
+### Contact Page
+
+- Same as the pages above. Tested all the links, hover effects and form fields.
+- The form is working and will show the correct message. I have tested all the form fields on all the pages.
+- The submit button is working and will show the correct message. I have tested all the submit buttons on all the pages.
 
 ## Commit History
 
@@ -162,5 +205,9 @@ I started my project with my index.html file and just kept on building my projec
 All the content are written by me.
 
 Feel free to use the content for your own projects.
+
+The javascript form youtube video. Written by a user on youtube Web Dev Simplified.
+
+The pictures are from unsplash.com. From the user Victor Freitas. All credits to him.
 
 [Back to top ⇧](#html--css-project)
