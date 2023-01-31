@@ -18,8 +18,7 @@ The website targets an audience of new customers looking for a free workout plan
   - [Typography](#typography)
   - [Colors](#colors)
   - [Wireframes](#wireframes)
-  - [Features](#features)
-  - [General](#general)
+  - [General Features](#general-features)
     - [Home Page](#home-page)
     - [Join Page](#join-page)
     - [Plans Page](#plans-page)
@@ -54,9 +53,8 @@ The wireframes for this project was created with Balsamiq. The wireframes can be
 
 ![Alt text](/assets/wireframes/1.png)
 
-## Features
+## General Features
 
-## General
 
 - The website is responsive on all devices.
 
@@ -92,6 +90,8 @@ The wireframes for this project was created with Balsamiq. The wireframes can be
 
 - Hoover over the links in the footer will change the color to a darker color and move the text to the left.
 
+[Back to top ⇧](#html--css-project)
+
 ### Home Page
 
 - Home page is the first page you will see when you enter the website. It is a big picture that will show the logo and a simple message. That you can get a free workout plan. When you hoover the picture the logo will move and the text to the left.
@@ -117,6 +117,7 @@ The wireframes for this project was created with Balsamiq. The wireframes can be
 - The contact page is a simple form that you can fill out to contact the website owner. The form is responsive on all devices.
 - When you hover over the submit button it will change color.
 
+[Back to top ⇧](#html--css-project)
 ## Testing
 
 - All the links are working and will take you to the correct page.
@@ -141,6 +142,8 @@ The wireframes for this project was created with Balsamiq. The wireframes can be
 
 - All the links are working and will take you to the correct page. I have tested all the links on all the pages. 
 - All the hover effects are working and will change color and move the text to the left.
+
+[Back to top ⇧](#html--css-project)
 
 ## Credits
 
