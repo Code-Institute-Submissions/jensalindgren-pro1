@@ -9,6 +9,8 @@ This is a website that showcases workout plans for people who want to get in sha
 The purpose of this website is to promote myself and my skills in Html and CSS.
 The website targets an audience of new customers looking for a free workout plan. That plans are tailored to their needs and background in training.
 
+Here is the link to the website: https://jensalindgren.github.io/pro1/
+
 ## Table of Contents
 
 - [HTML \& CSS Project](#html--css-project)
