@@ -25,6 +25,10 @@ The website targets an audience of new customers looking for a free workout plan
     - [Plans Page](#plans-page)
     - [About Page](#about-page)
     - [Contact Page](#contact-page)
+  - [Testing](#testing)
+    - [Code validation](#code-validation)
+    - [Testing on different devices](#testing-on-different-devices)
+  - [Manual Testing](#manual-testing)
   - [Credits](#credits)
   
 ## Project Goals
@@ -117,6 +121,26 @@ The wireframes for this project was created with Balsamiq. The wireframes can be
 
 - All the links are working and will take you to the correct page.
 
+### Code validation
+
+- All the code is validated with W3C validator. The code is validated with HTML and CSS.
+
+- W3C validator for HTML: https://validator.w3.org/
+- W3C validator for HTML was showing error in syntax. I corrected the error and the code is now validated on all the pages.
+
+- W3C validator for CSS: https://jigsaw.w3.org/css-validator/
+- W3C validator for CSS was showing error in syntax on the banner CSS. I corrected the error and the code is now validated on all the pages.
+
+### Testing on different devices
+
+- The website is tested on different devices. The website is responsive on all devices.
+
+- Pages is tested on different browsers. The website is working on all browsers.
+
+## Manual Testing
+
+- All the links are working and will take you to the correct page. I have tested all the links on all the pages. 
+- All the hover effects are working and will change color and move the text to the left.
 
 ## Credits
 
