@@ -146,6 +146,13 @@ The wireframes for this project was created with Balsamiq. The wireframes can be
 - All the forms are working and will send you to a new page. I have tested all the forms on all the pages.
 - All the pictures are working and will show the correct picture. I have tested all the pictures on all the pages.
 
+## Commit History
+
+- The commit history can be found on Github.
+- I started the project on my local machine and then pushed it to Github. So the commit history is not showing on Github. step by step in th browser.
+I started my project with my index.html file and just kept on building my project step by step. Halfway through the project I started to use my Github repository. I pushed my project to Github and then started to work on my project in the browser. So thats giving a little bit of a messy commit history.
+
+
 [Back to top ⇧](#html--css-project)
 
 ## Final Result
