@@ -99,6 +99,12 @@ The wireframes for this project was created with Balsamiq. The wireframes can be
 
 - The header have few lines of Javascript to change to the hamburger menu.
 
+Header on desktop:
+![Alt text](/assets/wireframes/header1.png)
+
+Header on mobile:
+![Alt text](/assets/wireframes/header2.png)
+
 2. Footer
 
 - Footer and header is the same on all pages. All the links are working and will take you to the correct page.
@@ -110,6 +116,13 @@ The wireframes for this project was created with Balsamiq. The wireframes can be
 - And also a link to the contact page and email.
 
 - Hoover over the links in the footer will change the color to a darker color and move the text to the left.
+
+Footer on desktop:
+![Alt text](/assets/wireframes/footer1.png)
+
+Footer on mobile:
+![Alt text](/assets/wireframes/footer2.png)
+
 
 [Back to top ⇧](#html--css-project)
 
