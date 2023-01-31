@@ -141,8 +141,10 @@ The wireframes for this project was created with Balsamiq. The wireframes can be
 
 ## Manual Testing
 
-- All the links are working and will take you to the correct page. I have tested all the links on all the pages. 
+- All the links are working and will take you to the correct page. I have tested all the links on all the pages.
 - All the hover effects are working and will change color and move the text to the left.
+- All the forms are working and will send you to a new page. I have tested all the forms on all the pages.
+- All the pictures are working and will show the correct picture. I have tested all the pictures on all the pages.
 
 [Back to top ⇧](#html--css-project)
 
