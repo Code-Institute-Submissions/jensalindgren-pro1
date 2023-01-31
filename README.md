@@ -113,6 +113,11 @@ The wireframes for this project was created with Balsamiq. The wireframes can be
 - The contact page is a simple form that you can fill out to contact the website owner. The form is responsive on all devices.
 - When you hover over the submit button it will change color.
 
+## Testing
+
+- All the links are working and will take you to the correct page.
+
+
 ## Credits
 
 All the content are written by me.
