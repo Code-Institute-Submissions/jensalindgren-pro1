@@ -256,6 +256,8 @@ Here is the link to the website: https://jensalindgren.github.io/pro
 
 Website on desktop:
 
+- Screenshot are taken from chrome dev tools. But put together in Balsamiq.
+
 ![Alt text](/assets/wireframes/desk1.png)
 ![Alt text](/assets/wireframes/desk2.png)
 ![Alt text](/assets/wireframes/desk3.png)
@@ -264,11 +266,11 @@ Website on desktop:
 
 Website on mobile:
 
-![Alt text](/assets/wireframes/mob1.png)
-![Alt text](/assets/wireframes/mob2.png)
-![Alt text](/assets/wireframes/mob3.png)
-![Alt text](/assets/wireframes/mob4.png)
-![Alt text](/assets/wireframes/mob5.png)
+- Screenshot are taken from chrome dev tools. But put together in Balsamiq.
+- Some of the pictures have been adjusted in sizes to fit the screen in Balsamiq.
+
+![Alt text](/assets/wireframes/mobile.png)
+
 
 ## Deployment
 
