@@ -1,7 +1,5 @@
 # HTML & CSS Project
 
-![Alt text](/assets/img/banner2.png)
-
 ## General Info
 
 This is a website that showcases workout plans for people who want to get in shape. It is a project for a course in Html and CSS.
