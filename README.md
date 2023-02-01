@@ -261,11 +261,14 @@ Website on desktop:
 ![Alt text](/assets/wireframes/desk3.png)
 ![Alt text](/assets/wireframes/desk4.png)
 ![Alt text](/assets/wireframes/desk5.png)
-![Alt text](/assets/wireframes/desk6.png)
-![Alt text](/assets/wireframes/desk7.png)
-![Alt text](/assets/wireframes/desk8.png)
-![Alt text](/assets/wireframes/desk9.png)
-![Alt text](/assets/wireframes/desk10.png)
+
+Website on mobile:
+
+![Alt text](/assets/wireframes/mob1.png)
+![Alt text](/assets/wireframes/mob2.png)
+![Alt text](/assets/wireframes/mob3.png)
+![Alt text](/assets/wireframes/mob4.png)
+![Alt text](/assets/wireframes/mob5.png)
 
 ## Deployment
 
@@ -287,7 +290,7 @@ Here is the link to the website: https://jensalindgren.github.io/pro1/
 
 ## Credits
 
-All the content are written by me.
+All the HTML and CSS content are written by me.
 
 Feel free to use the content for your own projects.
 
