@@ -70,7 +70,7 @@ Here is the link to the website: https://jensalindgren.github.io/pro1/
 The font used in this project is Open Sans. It is a sans-serif font that is easy to read and understand.
 ## Colors
 
-The colors used in this project are: white, whitesmoke, black, #555, #333. The colors are used to create a clean and modern look.
+The colors used in this project are: White, Whitesmoke, Black, #555, #333. The colors are used to create a clean and modern look.
 
 ## Wireframes
 
@@ -134,7 +134,7 @@ Footer on mobile:
 
 ### Home Page
 
-- Home page is the first page you will see when you enter the website. It is a big picture that will show the logo and a simple message. That you can get a free workout plan. When you hoover the picture the logo will move and the text to the left.
+- Home page is the first page you will see when you enter the website. It is a big picture that will show the logo and a simple message. That you can get a free workout plan. When you hoover the picture the logo will move to the left.
 
 - The home page has a section underneath the main picture/logo with 4 pictures. That will show the different links and what the site offers.
 
@@ -142,25 +142,28 @@ Footer on mobile:
 
 ### Join Page
 
-- The join page is a simple form that you can fill out to get a free workout plan. The form is responsive on all devices.
+- The join page is a simple form that you can fill out to get a free workout plan.
 
 ### Plans Page
 
-- The plans page is a page that will show the different plans that you can get. The plans are responsive on all devices.
+- The plans page is a page that will show the different plans that you can get.
 
 ### About Page
 
-- The about page have some information about the company and its staff. The plans page are responsive on all devices.
+- The about page have some information about the company and its staff.
 
 ### Contact Page
 
-- The contact page is a simple form that you can fill out to contact the website owner. The form is responsive on all devices.
+- The contact page is a simple form that you can fill out to contact the website owner.
 - When you hover over the submit button it will change color.
 
 [Back to top ⇧](#html--css-project)
 ## Testing
 
 - All the links are working and will take you to the correct page.
+- All the forms are working and will send you to the correct page.
+- All the pictures are working and will take you to the correct page.
+- All the buttons are working and will take you to the correct page.
 
 ### Code validation
 
@@ -243,8 +246,8 @@ header and footer is the same on all pages. All the links are working and will t
 ## Commit History
 
 - The commit history can be found on Github.
-- I started the project on my local machine and then pushed it to Github. So the commit history is not showing on Github. step by step in th browser.
-I started my project with my index.html file and just kept on building my project step by step. Halfway through the project I started to use my Github repository. I pushed my project to Github and then started to work on my project in the browser. So thats giving a little bit of a messy commit history.
+- I started the project on my local machine in VSCode and then pushed it to Github. So the full commit history is not showing on Github.
+I started my project with my index.html file and just kept on building my project step by step. Halfway through the project I started to use my Github repository. I pushed my project to Github and then started to work on my project in the browser. So thats giving it a little bit of a messy commit history.
 
 [Back to top ⇧](#html--css-project)
 
@@ -271,6 +274,7 @@ Website on mobile:
 
 ![Alt text](/assets/wireframes/mobile.png)
 
+[Back to top ⇧](#html--css-project)
 
 ## Deployment
 
