@@ -202,6 +202,14 @@ Footer on mobile:
 
 - The website is responsive on all devices. The website is working on all devices.
 
+### Testing tools
+
+- I have tested the site in chrome dev tools.
+The site it also tested on responsivedesignchecker.com.
+
+- Both tools are showing that the site is responsiveness in different screen sizing on all devices.
+
+
 ## Manual Testing
 
 ### Home Page
@@ -241,6 +249,23 @@ I started my project with my index.html file and just kept on building my projec
 [Back to top ⇧](#html--css-project)
 
 ## Final Result
+
+- The final result is a website that is responsive on all devices. The website is working on all devices and browsers. The website is validated with W3C validator. The website is tested on different devices and browsers. The website is working on all devices and browsers.
+
+Here is the link to the website: https://jensalindgren.github.io/pro
+
+Website on desktop:
+
+![Alt text](/assets/wireframes/desk1.png)
+![Alt text](/assets/wireframes/desk2.png)
+![Alt text](/assets/wireframes/desk3.png)
+![Alt text](/assets/wireframes/desk4.png)
+![Alt text](/assets/wireframes/desk5.png)
+![Alt text](/assets/wireframes/desk6.png)
+![Alt text](/assets/wireframes/desk7.png)
+![Alt text](/assets/wireframes/desk8.png)
+![Alt text](/assets/wireframes/desk9.png)
+![Alt text](/assets/wireframes/desk10.png)
 
 ## Deployment
 
